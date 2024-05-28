@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ioPr2HaNfbRZriaS+k7YacACXQ6WYmIOWOFqGNZ3D0BqKS6dchr2i5cemjjGtJzv1gg8vzZTACUhG2KQ2Gdtgg==",
+  "dgSpecHash": "YRfiobpp2Sc4xUxJDHhUlAZ/SjLO4kDUYmtwV5DFqc8Sxn5ijUAt7JTproAgXHSx7w7F8IGRTkW3mVVtPN2KUw==",
   "success": true,
-  "projectFilePath": "/Users/davidvasilev/Desktop/SolfeggioAPI/SolfeggioAPI.csproj",
+  "projectFilePath": "/Users/davidvasilev/Desktop/GIT/Без названия/SolfeggioAPI/SolfeggioAPI.csproj",
   "expectedPackageFiles": [
     "/Users/davidvasilev/.nuget/packages/microsoft.aspnetcore.openapi/7.0.18/microsoft.aspnetcore.openapi.7.0.18.nupkg.sha512",
     "/Users/davidvasilev/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

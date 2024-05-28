@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SolfeggioAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91b2b6be73be94a5588b01ab93d5a57d36330632")]
 [assembly: System.Reflection.AssemblyProductAttribute("SolfeggioAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SolfeggioAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

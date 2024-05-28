@@ -68,3 +68,40 @@
 /Users/davidvasilev/Desktop/SolfeggioAPI/obj/Debug/net7.0/Solfeggi.8959F61B.Up2Date
 /Users/davidvasilev/Desktop/SolfeggioAPI/bin/Debug/net7.0/users.json
 /Users/davidvasilev/Desktop/SolfeggioAPI/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/davidvasilev/Desktop/GIT/Без названия/SolfeggioAPI/bin/Debug/net7.0/appsettings.Development.json
+/Users/davidvasilev/Desktop/GIT/Без названия/SolfeggioAPI/bin/Debug/net7.0/appsettings.json
+/Users/davidvasilev/Desktop/GIT/Без названия/SolfeggioAPI/bin/Debug/net7.0/solfeggio.json
+/Users/davidvasilev/Desktop/GIT/Без названия/SolfeggioAPI/bin/Debug/net7.0/users.json
+/Users/davidvasilev/Desktop/GIT/Без названия/SolfeggioAPI/bin/Debug/net7.0/SolfeggioAPI
+/Users/davidvasilev/Desktop/GIT/Без названия/SolfeggioAPI/bin/Debug/net7.0/SolfeggioAPI.deps.json
+/Users/davidvasilev/Desktop/GIT/Без названия/SolfeggioAPI/bin/Debug/net7.0/SolfeggioAPI.runtimeconfig.json
+/Users/davidvasilev/Desktop/GIT/Без названия/SolfeggioAPI/bin/Debug/net7.0/SolfeggioAPI.dll
+/Users/davidvasilev/Desktop/GIT/Без названия/SolfeggioAPI/bin/Debug/net7.0/SolfeggioAPI.pdb
+/Users/davidvasilev/Desktop/GIT/Без названия/SolfeggioAPI/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/davidvasilev/Desktop/GIT/Без названия/SolfeggioAPI/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/davidvasilev/Desktop/GIT/Без названия/SolfeggioAPI/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/davidvasilev/Desktop/GIT/Без названия/SolfeggioAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/davidvasilev/Desktop/GIT/Без названия/SolfeggioAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/davidvasilev/Desktop/GIT/Без названия/SolfeggioAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/davidvasilev/Desktop/GIT/Без названия/SolfeggioAPI/obj/Debug/net7.0/SolfeggioAPI.csproj.AssemblyReference.cache
+/Users/davidvasilev/Desktop/GIT/Без названия/SolfeggioAPI/obj/Debug/net7.0/SolfeggioAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidvasilev/Desktop/GIT/Без названия/SolfeggioAPI/obj/Debug/net7.0/SolfeggioAPI.AssemblyInfoInputs.cache
+/Users/davidvasilev/Desktop/GIT/Без названия/SolfeggioAPI/obj/Debug/net7.0/SolfeggioAPI.AssemblyInfo.cs
+/Users/davidvasilev/Desktop/GIT/Без названия/SolfeggioAPI/obj/Debug/net7.0/SolfeggioAPI.csproj.CoreCompileInputs.cache
+/Users/davidvasilev/Desktop/GIT/Без названия/SolfeggioAPI/obj/Debug/net7.0/SolfeggioAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/davidvasilev/Desktop/GIT/Без названия/SolfeggioAPI/obj/Debug/net7.0/SolfeggioAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/davidvasilev/Desktop/GIT/Без названия/SolfeggioAPI/obj/Debug/net7.0/SolfeggioAPI.sourcelink.json
+/Users/davidvasilev/Desktop/GIT/Без названия/SolfeggioAPI/obj/Debug/net7.0/staticwebassets.build.json
+/Users/davidvasilev/Desktop/GIT/Без названия/SolfeggioAPI/obj/Debug/net7.0/staticwebassets.development.json
+/Users/davidvasilev/Desktop/GIT/Без названия/SolfeggioAPI/obj/Debug/net7.0/staticwebassets/msbuild.SolfeggioAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/davidvasilev/Desktop/GIT/Без названия/SolfeggioAPI/obj/Debug/net7.0/staticwebassets/msbuild.build.SolfeggioAPI.props
+/Users/davidvasilev/Desktop/GIT/Без названия/SolfeggioAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.SolfeggioAPI.props
+/Users/davidvasilev/Desktop/GIT/Без названия/SolfeggioAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.SolfeggioAPI.props
+/Users/davidvasilev/Desktop/GIT/Без названия/SolfeggioAPI/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/davidvasilev/Desktop/GIT/Без названия/SolfeggioAPI/obj/Debug/net7.0/scopedcss/bundle/SolfeggioAPI.styles.css
+/Users/davidvasilev/Desktop/GIT/Без названия/SolfeggioAPI/obj/Debug/net7.0/Solfeggi.8959F61B.Up2Date
+/Users/davidvasilev/Desktop/GIT/Без названия/SolfeggioAPI/obj/Debug/net7.0/SolfeggioAPI.dll
+/Users/davidvasilev/Desktop/GIT/Без названия/SolfeggioAPI/obj/Debug/net7.0/refint/SolfeggioAPI.dll
+/Users/davidvasilev/Desktop/GIT/Без названия/SolfeggioAPI/obj/Debug/net7.0/SolfeggioAPI.pdb
+/Users/davidvasilev/Desktop/GIT/Без названия/SolfeggioAPI/obj/Debug/net7.0/SolfeggioAPI.genruntimeconfig.cache
+/Users/davidvasilev/Desktop/GIT/Без названия/SolfeggioAPI/obj/Debug/net7.0/ref/SolfeggioAPI.dll
