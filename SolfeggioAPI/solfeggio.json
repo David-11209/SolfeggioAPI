@@ -1,0 +1,155 @@
+{
+  "blocks": [
+    {
+      "name": "Нотная грамота",
+      "themes": [
+        {
+          "id": "1",
+          "name": "Ноты и длительности",
+          "theoryText": "Ноты- это символы, используемые в музыкальной нотации для обозначения высоты звука и длительности. Ноты представляют собой графические символы, которые указывают музыканту, какой звук нужно проиграть. Ноты отображаются на нотном стане (нотной записи) и имеют различные формы в зависимости от их длительности.",
+          "theoryImage": "https://konspekta.net/lektsiacom/baza2/245953572145.files/image005.png",
+          "levels": [
+            {
+              "id": "1",
+              "tasks": [
+                {
+                  "id": "1",
+                  "task": "Выберите правильную длительность ноты",
+                  "image": "https://www.pngall.com/wp-content/uploads/2016/09/Musical-Notes-Free-Download-PNG.png",
+                  "answerOptions": [
+                    { "name": "Целая", "rightAnswer": false, "id": "1"},
+                    { "name": "Четвертная", "rightAnswer": false, "id": "2"},
+                    { "name": "Шестнадцатая", "rightAnswer": false, "id": "3" },
+                    { "name": "Восьмая", "rightAnswer": true, "id": "4" }
+                  ]
+                },
+                {
+                  "id": "2",
+                  "task": "Выберите правильную ноту",
+                  "image": "https://media.baamboozle.com/uploads/images/474313/1631100528_38672.png",
+                  "answerOptions": [
+                    { "name": "До", "rightAnswer": true, "id": "1" },
+                    { "name": "Ре", "rightAnswer": false, "id": "2" },
+                    { "name": "Ми", "rightAnswer": false, "id": "3" },
+                    { "name": "Фа", "rightAnswer": false, "id": "4" }
+                  ]
+                },
+                {
+                  "id": "3",
+                  "task": "Выберите правильную длительность ноты",
+                  "image": "https://udoba.org/sites/default/files/h5p/content/113330/images/image-657aeee962101.jpg",
+                  "answerOptions": [
+                    { "name": "Целая", "rightAnswer": false, "id": "1" },
+                    { "name": "Четвертная", "rightAnswer": true, "id": "2" },
+                    { "name": "Шестнадцатая", "rightAnswer": false, "id": "3" },
+                    { "name": "Восьмая", "rightAnswer": false, "id": "4" }
+                  ]
+                },
+                {
+                  "id": "4",
+                  "task": "Выберите правильную ноту",
+                  "image": "https://clarisax.ru/wp-content/uploads/2018/11/nota-sol-pervoj-oktavy-stan-1.png",
+                  "answerOptions": [
+                    { "name": "Фа", "rightAnswer": false, "id": "1" },
+                    { "name": "Соль", "rightAnswer": true, "id": "2" },
+                    { "name": "Ля", "rightAnswer": false, "id": "3" },
+                    { "name": "Си", "rightAnswer": false, "id": "4" }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "tasks": []
+            },
+            {
+              "id": "3",
+              "tasks": []
+            },
+            {
+              "id": "4",
+              "tasks": []
+            },
+            {
+              "id": "5",
+              "tasks": []
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Альтерация",
+          "theoryText": "Ноты- это символы, используемые в музыкальной нотации для обозначения высоты звука и длительности. Ноты представляют собой графические символы, которые указывают музыканту, какой звук нужно проиграть. Ноты отображаются на нотном стане (нотной записи) и имеют различные формы в зависимости от их длительности.",
+          "theoryImage": "https://gitara-vrn.ru/wp-content/uploads/6/d/b/6dbebf1231ed36dbb6e9414cb7df2db0.png",
+          "levels": []
+        }
+      ]
+    },
+    {
+      "name": "Тональности и лады",
+      "themes": [
+        {
+          "id": "1",
+          "name": "Всё о тональностях",
+          "theoryText": "Ноты- это символы, используемые в музыкальной нотации для обозначения высоты звука и длительности. Ноты представляют собой графические символы, которые указывают музыканту, какой звук нужно проиграть. Ноты отображаются на нотном стане (нотной записи) и имеют различные формы в зависимости от их длительности.",
+          "theoryImage": "https://gitara-vrn.ru/wp-content/uploads/6/d/b/6dbebf1231ed36dbb6e9414cb7df2db0.png",
+          "levels": []
+        },
+        {
+          "id": "2",
+          "name": "Всё о ладах",
+          "theoryText": "Ноты- это символы, используемые в музыкальной нотации для обозначения высоты звука и длительности. Ноты представляют собой графические символы, которые указывают музыканту, какой звук нужно проиграть. Ноты отображаются на нотном стане (нотной записи) и имеют различные формы в зависимости от их длительности.",
+          "theoryImage": "https://gitara-vrn.ru/wp-content/uploads/6/d/b/6dbebf1231ed36dbb6e9414cb7df2db0.png",
+          "levels": []
+        }
+      ]
+    }
+  ],
+  "soundTests": [
+    {
+      "name": "Ноты",
+      "soundTasks": [
+        {
+          "id": "1",
+          "soundName": "C",
+          "answerOptions": [
+            { "name": "Фа", "rightAnswer": false, "id": "1" },
+            { "name": "До", "rightAnswer": true, "id": "2" },
+            { "name": "Ля", "rightAnswer": false, "id": "3" },
+            { "name": "Си", "rightAnswer": false, "id": "4" }
+          ]
+        },
+        {
+          "id": "2",
+          "soundName": "F",
+          "answerOptions": [
+            { "name": "Фа", "rightAnswer": true, "id": "1" },
+            { "name": "Ре", "rightAnswer": false, "id": "2" },
+            { "name": "Соль", "rightAnswer": false, "id": "3" },
+            { "name": "Ми", "rightAnswer": false, "id": "4" }
+          ]
+        },
+        {
+          "id": "3",
+          "soundName": "A",
+          "answerOptions": [
+            { "name": "Ре", "rightAnswer": false, "id": "1" },
+            { "name": "Ми", "rightAnswer": false, "id": "2" },
+            { "name": "Ля", "rightAnswer": true, "id": "3" },
+            { "name": "До", "rightAnswer": false, "id": "4" }
+          ]
+        },
+        {
+          "id": "4",
+          "soundName": "G",
+          "answerOptions": [
+            { "name": "Си", "rightAnswer": false, "id": "1" },
+            { "name": "Ля", "rightAnswer": false, "id": "2" },
+            { "name": "Соль", "rightAnswer": true, "id": "3" },
+            { "name": "Ми", "rightAnswer": false, "id": "4" }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "Users": [
+    {
+      "Name": "Admin",
+      "Login": "Admin",
+      "Password": "1111",
+      "Image": "1",
+      "NotesStat": "0",
+      "IntervalsStat": "0",
+      "MoodsStat": "0",
+      "ChordsStat": "0",
+      "NumberNotesListened": "0",
+      "NumberIntervalsListened": "0",
+      "NumberMoodsListened": "0",
+      "NumberChordsListened": "0",
+      "NumberNotesSuccessListened": "0",
+      "NumberIntervalsSuccessListened": "0",
+      "NumberMoodsSuccessListened": "0",
+      "NumberChordsSuccessListened": "0",
+      "CompletedLevels": [
+        {
+          "Id": "1"
+        }
+      ]
+    },
+    {
+      "Name": "D",
+      "Login": "D",
+      "Password": "1",
+      "Image": "1",
+      "NotesStat": "0.75",
+      "IntervalsStat": "0",
+      "MoodsStat": "0",
+      "ChordsStat": "0",
+      "NumberNotesListened": "4",
+      "NumberIntervalsListened": "0",
+      "NumberMoodsListened": "0",
+      "NumberChordsListened": "0",
+      "NumberNotesSuccessListened": "3",
+      "NumberIntervalsSuccessListened": "0",
+      "NumberMoodsSuccessListened": "0",
+      "NumberChordsSuccessListened": "0",
+      "CompletedLevels": [
+        {
+          "Id": "1"
+        }
+      ]
+    },
+    {
+      "Name": "NewUser",
+      "Login": "User",
+      "Password": "1234",
+      "Image": "1",
+      "NotesStat": "0.375",
+      "IntervalsStat": "0.0",
+      "MoodsStat": "0.0",
+      "ChordsStat": "0.0",
+      "NumberNotesListened": "8",
+      "NumberIntervalsListened": "0",
+      "NumberMoodsListened": "0",
+      "NumberChordsListened": "0",
+      "NumberNotesSuccessListened": "3",
+      "NumberIntervalsSuccessListened": "0",
+      "NumberMoodsSuccessListened": "0",
+      "NumberChordsSuccessListened": "0",
+      "CompletedLevels": [
+        {
+          "Id": "1"
+        }
+      ]
+    },
+    {
+      "Name": "David",
+      "Login": "David",
+      "Password": "11",
+      "Image": "2",
+      "NotesStat": "0.75",
+      "IntervalsStat": "0.0",
+      "MoodsStat": "0.0",
+      "ChordsStat": "0.0",
+      "NumberNotesListened": "4",
+      "NumberIntervalsListened": "0",
+      "NumberMoodsListened": "0",
+      "NumberChordsListened": "0",
+      "NumberNotesSuccessListened": "3",
+      "NumberIntervalsSuccessListened": "0",
+      "NumberMoodsSuccessListened": "0",
+      "NumberChordsSuccessListened": "0",
+      "CompletedLevels": [
+        {
+          "Id": "1"
+        }
+      ]
+    },
+    {
+      "Name": "A",
+      "Login": "A",
+      "Password": "1",
+      "Image": "1",
+      "NotesStat": "0",
+      "IntervalsStat": "0",
+      "MoodsStat": "0",
+      "ChordsStat": "0",
+      "NumberNotesListened": "0",
+      "NumberIntervalsListened": "0",
+      "NumberMoodsListened": "0",
+      "NumberChordsListened": "0",
+      "NumberNotesSuccessListened": "0",
+      "NumberIntervalsSuccessListened": "0",
+      "NumberMoodsSuccessListened": "0",
+      "NumberChordsSuccessListened": "0",
+      "CompletedLevels": []
+    }
+  ]
+}
